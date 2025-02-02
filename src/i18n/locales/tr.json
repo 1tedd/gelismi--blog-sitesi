@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "projects": "Projeler"
+  },
+  "hero": {
+    "notPlaying": "Şu anda çalınmıyor",
+    "nowPlaying": "Spotify'da Çalıyor"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "description": "Ben tutkulu bir geliştiriciyim ve harika deneyimler yaratmayı seviyorum. Hem frontend hem de backend geliştirmede uzmanlığa sahip olarak, modern web uygulamaları oluşturmada en son teknolojileri kullanmaya özen gösteriyorum."
+  },
+  "projects": {
+    "title": "Projeler",
+    "viewProject": "Projeyi Görüntüle",
+    "visitProject": "Projeyi Ziyaret Et",
+    "technologies": "Kullanılan Teknolojiler",
+    "features": "Özellikler",
+    "description": "Açıklama",
+    "details": "Proje Detayları",
+    "discordBot": {
+      "title": "Discord Bot",
+      "description": "Gelişmiş özelliklere sahip güçlü bir Discord botu",
+      "features": [
+        "Müzik Çalar",
+        "Moderasyon",
+        "Özel Komutlar"
+      ]
+    },
+    "portfolio": {
+      "title": "Portföy Sitesi",
+      "description": "Modern ve interaktif portföy",
+      "features": [
+        "Responsive Tasarım",
+        "Karanlık Mod",
+        "Animasyonlar"
+      ]
+    },
+    "game": {
+      "title": "Oyun Projesi",
+      "description": "Tarayıcı tabanlı çok oyunculu oyun",
+      "features": [
+        "Gerçek Zamanlı Oynanış",
+        "3D Grafikler",
+        "Çok Oyunculu"
+      ]
+    }
+  },
+  "friends": {
+    "title": "Arkadaşlar",
+    "subtitle": "Discord Arkadaşlarım",
+    "retry": "Yeniden Dene"
+  },
+  "contact": {
+    "title": "İletişim",
+    "discord": {
+      "title": "Discord",
+      "description": "Discord sunucuma katılın veya benimle direkt iletişime geçin",
+      "button": "Sunucuya Katıl"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "description": "Güncellemeler ve fotoğraflar için Instagram'da takip edin",
+      "button": "Takip Et"
+    }
+  },
+  "weather": {
+    "humidity": "Nem",
+    "windSpeed": "Rüzgar Hızı"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır."
+  }
+}

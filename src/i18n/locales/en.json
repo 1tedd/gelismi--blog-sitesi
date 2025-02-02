@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "projects": "Projects"
+  },
+  "hero": {
+    "notPlaying": "Not Playing",
+    "nowPlaying": "Now Playing on Spotify"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate developer who loves creating amazing experiences. With expertise in both frontend and backend development, I specialize in building modern web applications using cutting-edge technologies."
+  },
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View Project",
+    "visitProject": "Visit Project",
+    "technologies": "Technologies Used",
+    "features": "Key Features",
+    "description": "Description",
+    "details": "Project Details",
+    "discordBot": {
+      "title": "Discord Bot",
+      "description": "A powerful Discord bot with advanced features",
+      "features": [
+        "Music Player",
+        "Moderation",
+        "Custom Commands"
+      ]
+    },
+    "portfolio": {
+      "title": "Portfolio Website",
+      "description": "Modern and interactive portfolio",
+      "features": [
+        "Responsive Design",
+        "Dark Mode",
+        "Animations"
+      ]
+    },
+    "game": {
+      "title": "Game Project",
+      "description": "Browser-based multiplayer game",
+      "features": [
+        "Real-time Gameplay",
+        "3D Graphics",
+        "Multiplayer"
+      ]
+    }
+  },
+  "friends": {
+    "title": "Friends",
+    "subtitle": "My Discord Friends",
+    "retry": "Retry Loading"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "discord": {
+      "title": "Discord",
+      "description": "Join my Discord server or connect with me directly",
+      "button": "Join Server"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "description": "Follow me on Instagram for updates and photos",
+      "button": "Follow Me"
+    }
+  },
+  "weather": {
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Mich",
+    "projects": "Projekte"
+  },
+  "hero": {
+    "notPlaying": "Keine Wiedergabe",
+    "nowPlaying": "Spielt gerade auf Spotify"
+  },
+  "about": {
+    "title": "Über Mich",
+    "description": "Ich bin ein leidenschaftlicher Entwickler, der es liebt, erstaunliche Erfahrungen zu schaffen. Mit Expertise in Frontend- und Backend-Entwicklung spezialisiere ich mich auf den Aufbau moderner Webanwendungen mit modernsten Technologien."
+  },
+  "projects": {
+    "title": "Projekte",
+    "viewProject": "Projekt Ansehen",
+    "visitProject": "Projekt Besuchen",
+    "technologies": "Verwendete Technologien",
+    "features": "Hauptmerkmale"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "discord": {
+      "title": "Discord",
+      "description": "Tritt meinem Discord-Server bei oder kontaktiere mich direkt",
+      "button": "Server Beitreten"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "description": "Folge mir auf Instagram für Updates und Fotos",
+      "button": "Folgen"
+    }
+  },
+  "weather": {
+    "humidity": "Luftfeuchtigkeit",
+    "windSpeed": "Windgeschwindigkeit"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}
